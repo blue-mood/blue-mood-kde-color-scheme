@@ -2,7 +2,7 @@
 
 An implementation of [emacs's Blue Mood theme's](https://emacsthemes.com/themes/blue-mood-theme.html) colors for KDE Plasma 5.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/kde-color-scheme-screenshot.png)
 
 # Installation & Activation
 
